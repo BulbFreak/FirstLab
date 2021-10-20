@@ -22,5 +22,6 @@ public class Hello {
         System.out.print("Where do you live? ");
         home = scnr.next();
         System.out.println("Wow! I've always wanted to go to " + home + ". Thanks for chatting with me. Bye!");
+        //random comment for git hub?
     }
 }
